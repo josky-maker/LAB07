@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01_spi_rx_overview.png",
+    "original": "word/media/image1.png",
+    "sha256": "efa799a55e96728f6d4501fbdd7c7c6b753eb1863dcea290ff0471114830b0c7"
+  },
+  {
+    "file": "02_spi_rx_55_detail.png",
+    "original": "word/media/image2.png",
+    "sha256": "f0ee07a5433e46ebd7ba8bd41c5a7c3404c692139374bc8c8a95e3d222d2fb76"
+  },
+  {
+    "file": "03_spi_tx_overview.png",
+    "original": "word/media/image3.png",
+    "sha256": "356ce3c55b99d0baa2aab0a8c259c4004210bbe029ba06d666133c16810cd44f"
+  },
+  {
+    "file": "04_spi_tx_a5_detail.png",
+    "original": "word/media/image4.png",
+    "sha256": "cd338f185a0fd45181ff34d7341323035c6a992b236e0f845bdb16209bacf8b8"
+  },
+  {
+    "file": "05_stm32_master_build.png",
+    "original": "word/media/image5.png",
+    "sha256": "3558132fd5f5b76db2366d81dc7b9c8696f68c4320dc1d5e6cd7f25bc5342bff"
+  },
+  {
+    "file": "06_stm32_slave_build.png",
+    "original": "word/media/image6.png",
+    "sha256": "600afaa11547b8be2af8d344e69fd7a15268ae19ce4d9d4f3e7407ddc77b76f8"
+  }
+]
