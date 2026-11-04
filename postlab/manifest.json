@@ -1,0 +1,130 @@
+[
+  {
+    "original_name": "IMG_0368.MOV",
+    "task": "task10",
+    "bytes": 27647576,
+    "sha256": "7d3230a2a384cba35fea34a817e86b87827c359bff1cdc33bb878228290a6e09",
+    "repository_file": "task10_IMG_0368_preview.mp4",
+    "repository_sha256": "6e68b92d1462b1f1f14f8db305ed805ccdf646000070d52c40c39670f126a12e"
+  },
+  {
+    "original_name": "IMG_0369.HEIC",
+    "task": "task10",
+    "bytes": 2380817,
+    "sha256": "874adf07805fb81f455e9de741d1ddc13667c353d1675709e55d17cc5a6d1dd1",
+    "repository_file": "task10_IMG_0369.HEIC",
+    "repository_sha256": "874adf07805fb81f455e9de741d1ddc13667c353d1675709e55d17cc5a6d1dd1"
+  },
+  {
+    "original_name": "IMG_0371.MOV",
+    "task": "task11",
+    "bytes": 77778250,
+    "sha256": "b4b158f649147f8ed83f5c8617d27fa78312af20cd9e98875600c2c6c877404c",
+    "repository_file": "task11_IMG_0371_preview.mp4",
+    "repository_sha256": "5cd04231bad6ee54b60d0df4ba21c94cfcff51a5cbca3a915466e3cc831ca9cd"
+  },
+  {
+    "original_name": "IMG_0372.HEIC",
+    "task": "task11",
+    "bytes": 2532093,
+    "sha256": "532d49b9fa42befdb2c15cb2d933cf6f86a4064d912de1858911266b14181bbe",
+    "repository_file": "task11_IMG_0372.HEIC",
+    "repository_sha256": "532d49b9fa42befdb2c15cb2d933cf6f86a4064d912de1858911266b14181bbe"
+  },
+  {
+    "original_name": "IMG_0373.HEIC",
+    "task": "task11",
+    "bytes": 2975629,
+    "sha256": "bcce363b25d903b455eff4a87773622dfc4b680d3130d7d4bba76c186172c50a",
+    "repository_file": "task11_IMG_0373.HEIC",
+    "repository_sha256": "bcce363b25d903b455eff4a87773622dfc4b680d3130d7d4bba76c186172c50a"
+  },
+  {
+    "original_name": "IMG_0374.HEIC",
+    "task": "task11",
+    "bytes": 3332058,
+    "sha256": "cb475ac26c42095dd69d5a55bcb985b1ad7b59a69c7adf08b4eeebf0a7e98e29",
+    "repository_file": "task11_IMG_0374.HEIC",
+    "repository_sha256": "cb475ac26c42095dd69d5a55bcb985b1ad7b59a69c7adf08b4eeebf0a7e98e29"
+  },
+  {
+    "original_name": "IMG_0375.HEIC",
+    "task": "task11",
+    "bytes": 2116874,
+    "sha256": "e195141d4a10631f63ac1e45a740df2c08d732c6090090dad41cb354094d5016",
+    "repository_file": "task11_IMG_0375.HEIC",
+    "repository_sha256": "e195141d4a10631f63ac1e45a740df2c08d732c6090090dad41cb354094d5016"
+  },
+  {
+    "original_name": "IMG_0376.HEIC",
+    "task": "task11",
+    "bytes": 3313657,
+    "sha256": "e9d8c755b8b9f7db2268bddf2413c400af3673bf3d9f22c072fc1096b1fece7a",
+    "repository_file": "task11_IMG_0376.HEIC",
+    "repository_sha256": "e9d8c755b8b9f7db2268bddf2413c400af3673bf3d9f22c072fc1096b1fece7a"
+  },
+  {
+    "original_name": "IMG_0377.MOV",
+    "task": "task12",
+    "bytes": 76937748,
+    "sha256": "00519234de88ae6a3f53273101e03c56c43f98680c553846073e7e5e1d65f318",
+    "repository_file": "task12_IMG_0377_preview.mp4",
+    "repository_sha256": "b115b98403ebe3955d2dc04fdb5de7a81ade7f8af29786b0a8999387083246fd"
+  },
+  {
+    "original_name": "00.jpg",
+    "task": "task8",
+    "bytes": 3059781,
+    "sha256": "fd9bb2930c3b465f75ab08a43b5a00838cade698ceec429db338cf1353a0e439",
+    "repository_file": "task8_00.jpg",
+    "repository_sha256": "fd9bb2930c3b465f75ab08a43b5a00838cade698ceec429db338cf1353a0e439"
+  },
+  {
+    "original_name": "55.jpg",
+    "task": "task8",
+    "bytes": 2810921,
+    "sha256": "f4e5f1bc883fc1335da763017eafd3c8e7605940b2144b4fcc1ba68711a89da7",
+    "repository_file": "task8_55.jpg",
+    "repository_sha256": "f4e5f1bc883fc1335da763017eafd3c8e7605940b2144b4fcc1ba68711a89da7"
+  },
+  {
+    "original_name": "A5.jpg",
+    "task": "task8",
+    "bytes": 2947138,
+    "sha256": "767e511b9e0652413109ec95528469c9eedbd0c68073a99df2842901b112ec6f",
+    "repository_file": "task8_A5.jpg",
+    "repository_sha256": "767e511b9e0652413109ec95528469c9eedbd0c68073a99df2842901b112ec6f"
+  },
+  {
+    "original_name": "FF.jpg",
+    "task": "task8",
+    "bytes": 2921372,
+    "sha256": "31cb0e0284b3c2d5998dc6170176cb1daf45d96e126a28ef86e546e4927315a0",
+    "repository_file": "task8_FF.jpg",
+    "repository_sha256": "31cb0e0284b3c2d5998dc6170176cb1daf45d96e126a28ef86e546e4927315a0"
+  },
+  {
+    "original_name": "IMG_0365.HEIC",
+    "task": "task8",
+    "bytes": 2067294,
+    "sha256": "665698c4a91640fb6ffebb0d62489b4d0f312bc84c2f22d6f875474b55a75217",
+    "repository_file": "task8_IMG_0365.HEIC",
+    "repository_sha256": "665698c4a91640fb6ffebb0d62489b4d0f312bc84c2f22d6f875474b55a75217"
+  },
+  {
+    "original_name": "KakaoTalk_20261102_172457865.jpg",
+    "task": "task9",
+    "bytes": 3092409,
+    "sha256": "9a7c267e67422eb81a5a582c8f2ae961db23456ee0ecb12f23c00af63cc4fe66",
+    "repository_file": "task9_KakaoTalk_20261102_172457865.jpg",
+    "repository_sha256": "9a7c267e67422eb81a5a582c8f2ae961db23456ee0ecb12f23c00af63cc4fe66"
+  },
+  {
+    "original_name": "KakaoTalk_20261102_172503712.mp4",
+    "task": "task9",
+    "bytes": 3039448,
+    "sha256": "984189fce6f6baaf9105eb371028c66cfc8099c36af2ff662ff8e9e050262ef7",
+    "repository_file": "task9_KakaoTalk_20261102_172503712_preview.mp4",
+    "repository_sha256": "8ca9a8303a376abe83f7d509a7a9286696fe4ae8611d0d949d6483345d8e86b0"
+  }
+]
